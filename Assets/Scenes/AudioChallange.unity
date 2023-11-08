@@ -339,7 +339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2d8478e045a25f47b1f468a9d814bbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  KillSound: {fileID: 0}
+  KillSound: {fileID: 264469829}
   sceneBuildIndex: 0
   clipLength: 5
   crossFade: {fileID: 1000759036}
